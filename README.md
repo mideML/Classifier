@@ -1,6 +1,6 @@
 # Category Classifier
 
-This directory contains a category classifier project using Amazon reviews. The aim of this project is to accurately classify the input data into various categories depending on its content. 
+This directory contains a category classifier project using a reviews dataset. The aim of this project is to accurately classify the input data into various categories depending on its content. 
 
 
 Getting Started
