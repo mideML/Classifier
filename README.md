@@ -4,7 +4,10 @@ This directory contains a category classifier project using Amazon reviews. The 
 
 
 Getting Started
-To run the code, you will need to have the pandas library installed
 
-To install pandas, run the following command in your terminal
+To run the code, you will need to have the pandas library installed.
+
+To install pandas, run the following command in your terminal: 
+
 pip install pandas
+
